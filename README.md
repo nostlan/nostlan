@@ -18,7 +18,7 @@ With Nostlan you can install new emulators with a single click. It's never been 
 
 A big bookshelf of game boxes is an impressive feat. A list of games displayed by a file explorer? Pretty lame.
 
-Use Nostlan to show off your virtual game collection with high quality box assets. Nostlan is [unlike any other game launcher](https://github.com/nostlan/nostlan/wiki/How-is-Nostlan-different-from-other-front-ends%3F) because it has a minimal, [skeuomorphic](https://en.wikipedia.org/wiki/Skeuomorph) UI design that prioritizes box art. It's like a virtual game room!
+Use Nostlan to show off your virtual game collection with high quality box assets. Nostlan is [unlike any other game launcher](https://github.com/nostlan/nostlan/wiki/UI-Design) because it has a minimal, [skeuomorphic](https://en.wikipedia.org/wiki/Skeuomorph) UI design that prioritizes box art. It's like a virtual game room!
 
 Check out the screenshots below. 👇
 
