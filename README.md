@@ -30,9 +30,9 @@ Nostlan was designed to be used with a game controller, so you won't have to use
 
 Nostlan can do it all!
 
-_Systems supported: Arcade, DS, 3DS, GBA, N64, PS2, PS3, PSP, SNES, SEGA Mega Drive/Genesis, **Nintendo Switch**, Wii, Wii U, Xbox, and Xbox 360._
+_Systems supported: Arcade, DS, 3DS, GBA, N64, PS1, PS2, PS3, PSP, SNES, SEGA Mega Drive/Genesis, **Nintendo Switch**, Wii, Wii U, Xbox, and Xbox 360._
 
-_Emulators supported: bsnes, Cemu, Citra, Cxbx-Reloaded, Dolphin, DeSmuME, DS Player, em-fceux, MAME, melonDS, mesen, mupen64plus, mGBA, PCSX2, PPSSPP, RPCS3, **Ryujinx**, Ryujinx-LDN, snes9x, VBA, webretro, xemu, Xenia, and Yuzu._
+_Emulators supported: bsnes, Cemu, Citra, Cxbx-Reloaded, DeSmuME, Dolphin, Duckstation, DS Player, em-fceux, MAME, melonDS, mesen, mupen64plus, mGBA, PCSX2, PPSSPP, RPCS3, **Ryujinx**, snes9x, VBA, webretro, xemu, Xenia, and Yuzu._
 
 ## Exclusive Features
 
@@ -45,7 +45,7 @@ _Emulators supported: bsnes, Cemu, Citra, Cxbx-Reloaded, Dolphin, DeSmuME, DS Pl
 - designed for big UHD displays and projectors
 - most controllers connect to Nostlan automatically, no setup required
 - cross-platform support for Linux, macOS, and Windows
-- menu translations for Spanish, German, Hebrew, Russian, and Dutch
+- menu translations for Spanish, Chinese, Japanese, German, Russian, and Dutch
 - box edit mode provides an in-app image search on the web (no need to download and manually place image files in the right folder)
 - can launch games using standalone emulator apps or JavaScript/WASM based emulator cores
 - browser-based features are completely isolated from the main process in accordance with the latest [Electron](https://electronjs.org/) app security standards
