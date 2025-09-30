@@ -18,7 +18,7 @@ With Nostlan you can install new emulators with a single click. It's never been 
 
 A big bookshelf of game boxes is an impressive feat. A list of games displayed by a file explorer? Pretty lame.
 
-Use Nostlan to show off your virtual game collection with high quality box assets. Nostlan is [unlike any other game launcher](https://github.com/nostlan/nostlan/wiki/UI-Design) because it has a minimal, [skeuomorphic](https://en.wikipedia.org/wiki/Skeuomorph) UI design that prioritizes box art. It's like a virtual game room!
+With Nostlan you can show off your digital collection with high quality box art. Nostlan is unlike any other launcher thanks to its minimal, [skeuomorphic](https://en.wikipedia.org/wiki/Skeuomorph) UI design. It's like a virtual game room!
 
 Check out the screenshots below. 👇
 
@@ -127,11 +127,17 @@ Click on an image to see it in full quality 4K resolution.
 <img src="https://nostlan.github.io/nostlan-screenshots/more_systems_LQ.jpg">
 </a></p>
 
-## Documentation
+## Join the fun!
+
+Join the [Nostlan community Discord](https://discord.gg/cT2yNC6). 😄
+
+Big fan? Support the development of Nostlan on [Patreon](https://www.patreon.com/nostlan)! ✨
+
+### Documentation
 
 Learn more about Nostlan by reading the [wiki pages](https://github.com/nostlan/nostlan/wiki).
 
-## Contact
+### Contact
 
 Contact me on [Discord](https://discord.gg/cT2yNC6) with your comments, question, suggestions, or if you need any general help using the app.
 
@@ -145,14 +151,18 @@ I created Nostlan for fun and also to learn more about app development. Since No
 
 I also put a LOT of effort into following the latest Electron security standards. All the 3rd party emulator cores that Nostlan uses are sandboxed, meaning they run in isolation from the main process.
 
-## Legal Disclaimer
+## Legal Info
 
-Although [emulation is legal](https://en.wikipedia.org/wiki/Bleem!), pirating games you do not own is illegal. Nostlan does not condone piracy. Nostlan is open source software that does not infringe on any copyrights of publishers, developers, artists, or texture packers. Anyone asking for or sharing information related to digital piracy on Nostlan's Discord server or GitHub page will be blocked and have their comments removed and flagged.
+Nostlan was designed to enhance the experience of managing and playing legally obtained video games through compatible emulators. It is developed and distributed as an independent software project and is not affiliated with, endorsed by, or sponsored by any console manufacturer or game publisher.
 
-## COPYRIGHT AND TRADEMARKS
+​U.S. courts have consistently held that emulator software is legal when developed independently without copying proprietary source code. Downloading or sharing games you do not own is illegal.​​
 
-Nostlan is not affiliated with Nintendo, Sony, SEGA, or Microsoft. All trademarks and servicemarks referenced in this app are the property of their respective owners.
+For more information, please view Nostlan's ["Legal Info"](https://github.com/nostlan/nostlan/wiki/Legal-Disclaimer) wiki page.
+
+### Copyright & Trademarks
+
+Nostlan was created by Quinton Ashley Copyright © 2019-2025.
+
+All trademarks and servicemarks referenced in this app are the property of their respective owners.
 
 MAME and the MAME Logo are Copyright © 1997-2025 MAMEDev and contributors. MAME® is a registered trademark of Gregory Ember. Use of the MAME name and logo is done so with the expressed written permission from the trademark owner. For more information, please visit <https://www.mamedev.org>.
-
-Nostlan was created by Quinton Ashley Copyright © 2019-2025. The Nostlan logo images are licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). The template images found in the [nostlan-img repository](https://github.com/nostlan/nostlan-img) are public domain images under the Public Domain License CC0. The Nostlan software itself is open sourced and licensed under the [GNU GPLv3 license](https://en.wikipedia.org/wiki/GNU_General_Public_License), which prohibits closed source commercial use.
