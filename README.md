@@ -157,7 +157,7 @@ Nostlan was designed to enhance the experience of managing and playing legally o
 
 ​U.S. courts have consistently held that emulator software is legal when developed independently without copying proprietary source code. Downloading or sharing games you do not own is illegal.​​
 
-For more information, please view Nostlan's ["Legal Info"](https://github.com/nostlan/nostlan/wiki/Legal-Disclaimer) wiki page.
+For more information, please view Nostlan's ["Legal Info"](https://github.com/nostlan/nostlan/wiki/Legal-Info) wiki page.
 
 ### Copyright & Trademarks
 
