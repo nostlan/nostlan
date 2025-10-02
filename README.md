@@ -6,9 +6,15 @@
 
 [Download Nostlan from itch.io](https://quinton-ashley.github.io/nostlan-web) 🤝
 
+_TOP 500 in paid tools on itch.io (July 2025)_
+
 ## What's a "game launcher"?
 
 Nostlan isn't just a fancy file browser for your game files, it brings the console gaming experience to your computer!
+
+A one time purchase grants you lifetime access to all future updates.
+
+Try before you buy! Download a free demo with unlimited game imports for the Nintendo GameCube/Wii consoles.
 
 ### Total emulation noob?
 
@@ -28,13 +34,11 @@ Nostlan was designed to be used with a game controller, so you won't have to use
 
 ### Looking to play retro and modern games?
 
-Nostlan can do it all!
-
 _Systems supported: Arcade, DS, 3DS, GBA, N64, PS1, PS2, PS3, PSP, SNES, SEGA Mega Drive/Genesis, **Nintendo Switch**, Wii, Wii U, Xbox, and Xbox 360._
 
 _Emulators supported: bsnes, Cemu, Citra, Cxbx-Reloaded, DeSmuME, Dolphin, Duckstation, DS Player, em-fceux, MAME, melonDS, mesen, mupen64plus, mGBA, PCSX2, PPSSPP, RPCS3, **Ryujinx**, snes9x, VBA, webretro, xemu, Xenia, and Yuzu._
 
-## Exclusive Features
+## Features
 
 - browse the entire app with your mouse, keyboard, or game controller
 - cloud backup and sync of game saves
@@ -53,7 +57,7 @@ _Emulators supported: bsnes, Cemu, Citra, Cxbx-Reloaded, DeSmuME, Dolphin, Ducks
 
 ## Join the fun!
 
-**[Download Nostlan](https://github.com/nostlan/nostlan/releases)** and join the [Nostlan community Discord](https://discord.gg/cT2yNC6). 😄
+Join the [Nostlan community Discord](https://discord.gg/cT2yNC6). 😄
 
 **Big fan? Support the development of Nostlan on [Patreon](https://www.patreon.com/nostlan)!** ✨
 
@@ -97,7 +101,7 @@ Click on an image to see it in full quality 4K resolution.
 <img src="https://nostlan.github.io/nostlan-screenshots/snes_LQ.png">
 </a></p>
 
-### Arcade Machines [MAME]
+### Arcade [MAME]
 
 <p><a href="https://nostlan.github.io/nostlan-screenshots/mame.png">
 <img src="https://nostlan.github.io/nostlan-screenshots/mame_LQ.png">
