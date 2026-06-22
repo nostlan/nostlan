@@ -34,9 +34,9 @@ Nostlan was designed to be used with a game controller, so you won't have to use
 
 ### Looking to play retro and modern games?
 
-_Systems supported: Arcade, DS, 3DS, GBA, N64, PS1, PS2, PS3, PSP, SNES, SEGA Mega Drive/Genesis, **Nintendo Switch**, Wii, Wii U, Xbox, and Xbox 360._
+_Systems supported: Arcade, DS, 3DS, GBA, N64, PS1, PS2, PS3, PS4, PSP, SNES, SEGA Mega Drive/Genesis, Nintendo Switch, Wii, Wii U, Xbox, and Xbox 360._
 
-_Emulators supported: bsnes, Cemu, Citra, Cxbx-Reloaded, DeSmuME, Dolphin, Duckstation, DS Player, em-fceux, MAME, melonDS, mesen, mupen64plus, mGBA, PCSX2, PPSSPP, RPCS3, **Ryujinx**, snes9x, VBA, webretro, xemu, Xenia, and Yuzu._
+_Emulators supported: bsnes, Cemu, Citra, Cxbx-Reloaded, DeSmuME, Dolphin, Duckstation, DS Player, em-fceux, MAME, melonDS, mesen, mupen64plus, mGBA, PCSX2, PPSSPP, RPCS3, Ryujinx, shadPS4, snes9x, VBA, webretro, xemu, Xenia, and Yuzu._
 
 ## Features
 
